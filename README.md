@@ -27,6 +27,12 @@ Apache JIRA issues (project + fixVersion)
 
 ## 📂 Project Structure
 
+
+## how to crate virtual env
+```bash
+ python -m venv .venv
+```
+
 ```bash
 Release-Notes-Generator/
 │
